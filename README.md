@@ -1,4 +1,4 @@
-# Hey, I'm Aaron Parayil 👋
+# Hey, I'm Aaron Koshy Parayil 👋
 
 > **BCA (Honours) graduate from Christ University | Cloud computing enthusiast | Game developer at heart**
 
@@ -7,7 +7,7 @@ Welcome to my corner of GitHub — where curiosity becomes code, projects become
 ## 🧭 Player Profile
 
 ```text
-Name        : Aaron Parayil
+Name        : Aaron Koshy Parayil
 Education   : Bachelor of Computer Applications (Honours), Christ University
 Current Quest: Building skills, earning certifications, and finding the right opportunity
 Specialties : Cloud computing • Game development • Systems exploration
