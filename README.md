@@ -2,7 +2,7 @@
 
 > **BCA (Honours) graduate from Christ University | Cloud computing enthusiast | Game developer at heart**
 
-Welcome to my corner of GitHub — where curiosity becomes code, projects become experiments, and every bug is another level to clear. 🎮
+Like cloud and games.
 
 ## 🚀 What I'm Exploring
 
