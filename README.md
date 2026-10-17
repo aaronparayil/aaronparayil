@@ -2,7 +2,7 @@
 
 > **BCA (Honours) graduate from Christ University | Cloud computing enthusiast | Game developer at heart**
 
-Like cloud and games.
+Likes games and cloud.
 
 ## 🚀 What I'm Exploring
 
