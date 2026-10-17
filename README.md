@@ -4,16 +4,6 @@
 
 Welcome to my corner of GitHub — where curiosity becomes code, projects become experiments, and every bug is another level to clear. 🎮
 
-## 🧭 Player Profile
-
-```text
-Name        : Aaron Koshy Parayil
-Education   : Bachelor of Computer Applications (Honours), Christ University
-Current Quest: Building skills, earning certifications, and finding the right opportunity
-Specialties : Cloud computing • Game development • Systems exploration
-Side Quests : Cybersecurity • Emulation • Creative problem-solving
-```
-
 ## 🚀 What I'm Exploring
 
 - ☁️ **Cloud computing** — learning how scalable, reliable systems are designed and deployed
@@ -52,16 +42,5 @@ I am currently preparing for certifications and exploring opportunities in softw
 
 If you are working on something interesting or looking for someone who is curious, adaptable, and willing to keep learning, feel free to connect.
 
-## 📊 GitHub Progress
-
-![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aaronparayil&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaronparayil&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 💬 Final Boss Philosophy
-
-> **Stay curious. Build often. Learn from every bug. Keep going.**
 
 Thanks for stopping by — explore the repositories, follow the progress, and enjoy the journey. ✨
